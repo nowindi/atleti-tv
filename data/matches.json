@@ -1,0 +1,110 @@
+{
+  "updatedAt": "2026-10-24T00:00:00+02:00",
+  "matches": [
+    {
+      "id": "2026-10-24-deportivo",
+      "date": "2026-10-24",
+      "time": "21:00",
+      "home": "Atlético de Madrid",
+      "away": "Deportivo",
+      "competition": "LaLiga",
+      "channels": [
+        "M_LALIGA",
+        "M_PLUS"
+      ],
+      "source": "https://www.laliga.com/clubes/atletico-de-madrid/proximos-partidos"
+    },
+    {
+      "id": "2026-10-31-levante",
+      "date": "2026-10-31",
+      "time": "14:00",
+      "home": "Levante",
+      "away": "Atlético de Madrid",
+      "competition": "LaLiga",
+      "channels": [
+        "M_LALIGA"
+      ],
+      "source": "https://www.futbolenlatv.es/equipo/at-madrid"
+    },
+    {
+      "id": "2026-11-03-bayern",
+      "date": "2026-11-03",
+      "time": "21:00",
+      "home": "Atlético de Madrid",
+      "away": "Bayern Múnich",
+      "competition": "Champions League",
+      "channels": [
+        "M_CHAMPIONS",
+        "M_PLUS"
+      ],
+      "source": "https://www.movistarplus.es/deportes/futbol/horarios"
+    },
+    {
+      "id": "2026-11-08-barcelona",
+      "date": "2026-11-08",
+      "time": "21:00",
+      "home": "Atlético de Madrid",
+      "away": "Barcelona",
+      "competition": "LaLiga",
+      "channels": [
+        "M_LALIGA"
+      ],
+      "source": "https://www.laliga.com/clubes/atletico-de-madrid/proximos-partidos"
+    },
+    {
+      "id": "2026-11-22-getafe",
+      "date": "2026-11-22",
+      "time": "21:00",
+      "home": "Getafe",
+      "away": "Atlético de Madrid",
+      "competition": "LaLiga",
+      "channels": [
+        "M_LALIGA"
+      ],
+      "source": "https://www.laliga.com/clubes/atletico-de-madrid/proximos-partidos"
+    },
+    {
+      "id": "2026-11-25-viking",
+      "date": "2026-11-25",
+      "time": "21:00",
+      "home": "Atlético de Madrid",
+      "away": "Viking FK",
+      "competition": "Champions League",
+      "channels": [],
+      "source": "https://www.futbolenlatv.es/equipo/at-madrid"
+    },
+    {
+      "id": "2026-11-29-elche",
+      "date": "2026-11-29",
+      "time": "17:00",
+      "home": "Elche",
+      "away": "Atlético de Madrid",
+      "competition": "LaLiga",
+      "channels": [
+        "M_LALIGA",
+        "M_PLUS"
+      ],
+      "source": "https://www.movistarplus.es/deportes/futbol/horarios"
+    },
+    {
+      "id": "2026-12-06-betis",
+      "date": "2026-12-06",
+      "time": "17:00",
+      "home": "Atlético de Madrid",
+      "away": "Betis",
+      "competition": "LaLiga",
+      "channels": [],
+      "source": "https://www.futbolenlatv.es/equipo/at-madrid"
+    },
+    {
+      "id": "2026-12-09-psv",
+      "date": "2026-12-09",
+      "time": "21:00",
+      "home": "PSV",
+      "away": "Atlético de Madrid",
+      "competition": "Champions League",
+      "channels": [],
+      "source": "https://www.futbolenlatv.es/equipo/at-madrid"
+    }
+  ]
+}
