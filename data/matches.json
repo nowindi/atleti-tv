@@ -1,110 +1,1468 @@
 {
-  "updatedAt": "2026-10-24T00:00:00+02:00",
+  "updatedAt": "2026-11-03T19:13:17+01:00",
   "matches": [
     {
-      "id": "2026-10-24-deportivo",
-      "date": "2026-10-24",
+      "id": "63f703f3711de9f169ae",
+      "season": 2026,
+      "round": "amistoso",
+      "home": "Manchester Utd",
+      "away": "Atlético de Madrid",
+      "competition": "Amistoso",
+      "date": "2026-08-01",
+      "dateCandidates": [
+        "2026-08-01"
+      ],
+      "dateLabel": "Sábado 1 de agosto",
+      "time": "15:00",
+      "scheduleStatus": "confirmed",
+      "scheduleSource": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+      "channels": [],
+      "channelEvidence": {},
+      "channelStatus": "pending",
+      "verificationStatus": "verified",
+      "channelCheckedAt": "2026-11-03T19:13:17+01:00",
+      "scheduleEvidence": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "Amistoso · Jornada amistoso · Manchester Utd – Atlético de Madrid · Sábado 1 de agosto · 15:00",
+        "checkedAt": "2026-11-03T19:13:17+01:00"
+      },
+      "source": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/"
+    },
+    {
+      "id": "8845250dae00d592541c",
+      "season": 2026,
+      "round": "coupang play series",
+      "home": "Manchester City",
+      "away": "Atlético de Madrid",
+      "competition": "Amistoso",
+      "date": "2026-08-09",
+      "dateCandidates": [
+        "2026-08-09"
+      ],
+      "dateLabel": "Domingo 9 de agosto",
+      "time": "13:00",
+      "scheduleStatus": "confirmed",
+      "scheduleSource": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+      "channels": [],
+      "channelEvidence": {},
+      "channelStatus": "pending",
+      "verificationStatus": "verified",
+      "channelCheckedAt": "2026-11-03T19:13:17+01:00",
+      "scheduleEvidence": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "Amistoso · Jornada coupang play series · Manchester City – Atlético de Madrid · Domingo 9 de agosto · 13:00",
+        "checkedAt": "2026-11-03T19:13:17+01:00"
+      },
+      "source": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/"
+    },
+    {
+      "id": "0205d16be8e4fe2bc35e",
+      "season": 2026,
+      "round": "amistoso",
+      "home": "Olympique de Marsella",
+      "away": "Atlético de Madrid",
+      "competition": "Amistoso",
+      "date": "2026-08-14",
+      "dateCandidates": [
+        "2026-08-14"
+      ],
+      "dateLabel": "Viernes 14 de agosto",
+      "time": "17:30",
+      "scheduleStatus": "confirmed",
+      "scheduleSource": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+      "channels": [],
+      "channelEvidence": {},
+      "channelStatus": "pending",
+      "verificationStatus": "verified",
+      "channelCheckedAt": "2026-11-03T19:13:17+01:00",
+      "scheduleEvidence": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "Amistoso · Jornada amistoso · Olympique de Marsella – Atlético de Madrid · Viernes 14 de agosto · 17:30",
+        "checkedAt": "2026-11-03T19:13:17+01:00"
+      },
+      "source": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/"
+    },
+    {
+      "id": "517c8f23825aacdbb6cb",
+      "season": 2026,
+      "round": "1",
+      "home": "Atlético de Madrid",
+      "away": "Málaga",
+      "competition": "LaLiga",
+      "date": "2026-08-19",
+      "dateCandidates": [
+        "2026-08-19"
+      ],
+      "dateLabel": "Miércoles 19 de agosto",
       "time": "21:00",
+      "scheduleStatus": "confirmed",
+      "scheduleSource": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+      "channels": [],
+      "channelEvidence": {},
+      "channelStatus": "pending",
+      "verificationStatus": "verified",
+      "channelCheckedAt": "2026-11-03T19:13:17+01:00",
+      "scheduleEvidence": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "LaLiga · Jornada 1 · Atlético de Madrid – Málaga · Miércoles 19 de agosto · 21:00",
+        "checkedAt": "2026-11-03T19:13:17+01:00"
+      },
+      "source": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/"
+    },
+    {
+      "id": "bf53d6bfef371f3ad182",
+      "season": 2026,
+      "round": "2",
+      "home": "Atlético de Madrid",
+      "away": "Villarreal",
+      "competition": "LaLiga",
+      "date": "2026-08-23",
+      "dateCandidates": [
+        "2026-08-23"
+      ],
+      "dateLabel": "Domingo 23 de agosto",
+      "time": "17:00",
+      "scheduleStatus": "confirmed",
+      "scheduleSource": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+      "channels": [],
+      "channelEvidence": {},
+      "channelStatus": "pending",
+      "verificationStatus": "verified",
+      "channelCheckedAt": "2026-11-03T19:13:17+01:00",
+      "scheduleEvidence": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "LaLiga · Jornada 2 · Atlético de Madrid – Villarreal · Domingo 23 de agosto · 17:00",
+        "checkedAt": "2026-11-03T19:13:17+01:00"
+      },
+      "source": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/"
+    },
+    {
+      "id": "c1a4c03db961915a6a04",
+      "season": 2026,
+      "round": "3",
+      "home": "Sevilla",
+      "away": "Atlético de Madrid",
+      "competition": "LaLiga",
+      "date": "2026-08-29",
+      "dateCandidates": [
+        "2026-08-29"
+      ],
+      "dateLabel": "Sábado 29 de agosto",
+      "time": "21:30",
+      "scheduleStatus": "confirmed",
+      "scheduleSource": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+      "channels": [],
+      "channelEvidence": {},
+      "channelStatus": "pending",
+      "verificationStatus": "verified",
+      "channelCheckedAt": "2026-11-03T19:13:17+01:00",
+      "scheduleEvidence": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "LaLiga · Jornada 3 · Sevilla – Atlético de Madrid · Sábado 29 de agosto · 21:30",
+        "checkedAt": "2026-11-03T19:13:17+01:00"
+      },
+      "source": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/"
+    },
+    {
+      "id": "e92062164d602c4c5201",
+      "season": 2026,
+      "round": "4",
+      "home": "Athletic Club",
+      "away": "Atlético de Madrid",
+      "competition": "LaLiga",
+      "date": "2026-09-05",
+      "dateCandidates": [
+        "2026-09-05"
+      ],
+      "dateLabel": "Sábado 5 de septiembre",
+      "time": "16:15",
+      "scheduleStatus": "confirmed",
+      "scheduleSource": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+      "channels": [],
+      "channelEvidence": {},
+      "channelStatus": "pending",
+      "verificationStatus": "verified",
+      "channelCheckedAt": "2026-11-03T19:13:17+01:00",
+      "scheduleEvidence": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "LaLiga · Jornada 4 · Athletic Club – Atlético de Madrid · Sábado 5 de septiembre · 16:15",
+        "checkedAt": "2026-11-03T19:13:17+01:00"
+      },
+      "source": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/"
+    },
+    {
+      "id": "948a32e22ff9b644d089",
+      "season": 2026,
+      "round": "1",
+      "home": "Liverpool FC",
+      "away": "Atlético de Madrid",
+      "competition": "Champions League",
+      "date": "2026-09-09",
+      "dateCandidates": [
+        "2026-09-09"
+      ],
+      "dateLabel": "Miércoles 9 de septiembre",
+      "time": "21:00",
+      "scheduleStatus": "confirmed",
+      "scheduleSource": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+      "channels": [],
+      "channelEvidence": {},
+      "channelStatus": "pending",
+      "verificationStatus": "verified",
+      "channelCheckedAt": "2026-11-03T19:13:17+01:00",
+      "scheduleEvidence": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "Champions League · Jornada 1 · Liverpool FC – Atlético de Madrid · Miércoles 9 de septiembre · 21:00",
+        "checkedAt": "2026-11-03T19:13:17+01:00"
+      },
+      "source": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/"
+    },
+    {
+      "id": "22f6103d7f10fdecc881",
+      "season": 2026,
+      "round": "5",
+      "home": "Real Sociedad",
+      "away": "Atlético de Madrid",
+      "competition": "LaLiga",
+      "date": "2026-09-13",
+      "dateCandidates": [
+        "2026-09-13"
+      ],
+      "dateLabel": "Domingo 13 de septiembre",
+      "time": "21:00",
+      "scheduleStatus": "confirmed",
+      "scheduleSource": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+      "channels": [],
+      "channelEvidence": {},
+      "channelStatus": "pending",
+      "verificationStatus": "verified",
+      "channelCheckedAt": "2026-11-03T19:13:17+01:00",
+      "scheduleEvidence": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "LaLiga · Jornada 5 · Real Sociedad – Atlético de Madrid · Domingo 13 de septiembre · 21:00",
+        "checkedAt": "2026-11-03T19:13:17+01:00"
+      },
+      "source": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/"
+    },
+    {
+      "id": "282d4ee7fc2f22a85acc",
+      "season": 2026,
+      "round": "6",
+      "home": "Atlético de Madrid",
+      "away": "Osasuna",
+      "competition": "LaLiga",
+      "date": "2026-09-16",
+      "dateCandidates": [
+        "2026-09-16"
+      ],
+      "dateLabel": "Miércoles 16 de septiembre",
+      "time": "19:00",
+      "scheduleStatus": "confirmed",
+      "scheduleSource": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+      "channels": [],
+      "channelEvidence": {},
+      "channelStatus": "pending",
+      "verificationStatus": "verified",
+      "channelCheckedAt": "2026-11-03T19:13:17+01:00",
+      "scheduleEvidence": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "LaLiga · Jornada 6 · Atlético de Madrid – Osasuna · Miércoles 16 de septiembre · 19:00",
+        "checkedAt": "2026-11-03T19:13:17+01:00"
+      },
+      "source": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/"
+    },
+    {
+      "id": "f26931fe87c7b6dc83b3",
+      "season": 2026,
+      "round": "7",
+      "home": "Atlético de Madrid",
+      "away": "Real Madrid",
+      "competition": "LaLiga",
+      "date": "2026-09-20",
+      "dateCandidates": [
+        "2026-09-20"
+      ],
+      "dateLabel": "Domingo 20 de septiembre",
+      "time": "16:15",
+      "scheduleStatus": "confirmed",
+      "scheduleSource": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+      "channels": [],
+      "channelEvidence": {},
+      "channelStatus": "pending",
+      "verificationStatus": "verified",
+      "channelCheckedAt": "2026-11-03T19:13:17+01:00",
+      "scheduleEvidence": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "LaLiga · Jornada 7 · Atlético de Madrid – Real Madrid · Domingo 20 de septiembre · 16:15",
+        "checkedAt": "2026-11-03T19:13:17+01:00"
+      },
+      "source": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/"
+    },
+    {
+      "id": "317d755d508022dd12ad",
+      "season": 2026,
+      "round": "8",
+      "home": "Alavés",
+      "away": "Atlético de Madrid",
+      "competition": "LaLiga",
+      "date": "2026-10-10",
+      "dateCandidates": [
+        "2026-10-10"
+      ],
+      "dateLabel": "Sábado 10 octubre",
+      "time": "16:15",
+      "scheduleStatus": "confirmed",
+      "scheduleSource": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+      "channels": [],
+      "channelEvidence": {},
+      "channelStatus": "pending",
+      "verificationStatus": "verified",
+      "channelCheckedAt": "2026-11-03T19:13:17+01:00",
+      "scheduleEvidence": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "LaLiga · Jornada 8 · Alavés – Atlético de Madrid · Sábado 10 octubre · 16:15",
+        "checkedAt": "2026-11-03T19:13:17+01:00"
+      },
+      "source": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/"
+    },
+    {
+      "id": "8d65c603a2455472ae23",
+      "season": 2026,
+      "round": "2",
+      "home": "Atlético de Madrid",
+      "away": "Manchester Utd",
+      "competition": "Champions League",
+      "date": "2026-10-13",
+      "dateCandidates": [
+        "2026-10-13"
+      ],
+      "dateLabel": "Martes 13 de octubre",
+      "time": "21:00",
+      "scheduleStatus": "confirmed",
+      "scheduleSource": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+      "channels": [],
+      "channelEvidence": {},
+      "channelStatus": "pending",
+      "verificationStatus": "verified",
+      "channelCheckedAt": "2026-11-03T19:13:17+01:00",
+      "scheduleEvidence": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "Champions League · Jornada 2 · Atlético de Madrid – Manchester Utd · Martes 13 de octubre · 21:00",
+        "checkedAt": "2026-11-03T19:13:17+01:00"
+      },
+      "source": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/"
+    },
+    {
+      "id": "de9f82be33b0a2102ba8",
+      "season": 2026,
+      "round": "9",
+      "home": "Espanyol",
+      "away": "Atlético de Madrid",
+      "competition": "LaLiga",
+      "date": "2026-10-17",
+      "dateCandidates": [
+        "2026-10-17"
+      ],
+      "dateLabel": "Sábado 17 de octubre",
+      "time": "14:00",
+      "scheduleStatus": "confirmed",
+      "scheduleSource": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+      "channels": [],
+      "channelEvidence": {},
+      "channelStatus": "pending",
+      "verificationStatus": "verified",
+      "channelCheckedAt": "2026-11-03T19:13:17+01:00",
+      "scheduleEvidence": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "LaLiga · Jornada 9 · Espanyol – Atlético de Madrid · Sábado 17 de octubre · 14:00",
+        "checkedAt": "2026-11-03T19:13:17+01:00"
+      },
+      "source": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/"
+    },
+    {
+      "id": "635de211772ae5e9d554",
+      "season": 2026,
+      "round": "3",
+      "home": "VFB Stuttgart",
+      "away": "Atlético de Madrid",
+      "competition": "Champions League",
+      "date": "2026-10-20",
+      "dateCandidates": [
+        "2026-10-20"
+      ],
+      "dateLabel": "Martes 20 de octubre",
+      "time": "21:00",
+      "scheduleStatus": "confirmed",
+      "scheduleSource": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+      "channels": [],
+      "channelEvidence": {},
+      "channelStatus": "pending",
+      "verificationStatus": "verified",
+      "channelCheckedAt": "2026-11-03T19:13:17+01:00",
+      "scheduleEvidence": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "Champions League · Jornada 3 · VFB Stuttgart – Atlético de Madrid · Martes 20 de octubre · 21:00",
+        "checkedAt": "2026-11-03T19:13:17+01:00"
+      },
+      "source": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/"
+    },
+    {
+      "id": "2026-10-24-deportivo",
+      "season": 2026,
+      "round": "10",
       "home": "Atlético de Madrid",
       "away": "Deportivo",
       "competition": "LaLiga",
-      "channels": [
-        "M_LALIGA",
-        "M_PLUS"
+      "date": "2026-10-24",
+      "dateCandidates": [
+        "2026-10-24"
       ],
-      "source": "https://www.laliga.com/clubes/atletico-de-madrid/proximos-partidos"
+      "dateLabel": "Sábado 24 octubre",
+      "time": "21:00",
+      "scheduleStatus": "confirmed",
+      "scheduleSource": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+      "channels": [],
+      "channelEvidence": {},
+      "channelStatus": "pending",
+      "verificationStatus": "verified",
+      "channelCheckedAt": "2026-11-03T19:13:17+01:00",
+      "scheduleEvidence": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "LaLiga · Jornada 10 · Atlético de Madrid – Deportivo · Sábado 24 octubre · 21:00",
+        "checkedAt": "2026-11-03T19:13:17+01:00"
+      },
+      "source": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/"
     },
     {
       "id": "2026-10-31-levante",
-      "date": "2026-10-31",
-      "time": "14:00",
+      "season": 2026,
+      "round": "11",
       "home": "Levante",
       "away": "Atlético de Madrid",
       "competition": "LaLiga",
-      "channels": [
-        "M_LALIGA"
+      "date": "2026-10-31",
+      "dateCandidates": [
+        "2026-10-31"
       ],
-      "source": "https://www.futbolenlatv.es/equipo/at-madrid"
+      "dateLabel": "Sábado 31 de octubre",
+      "time": "14:00",
+      "scheduleStatus": "confirmed",
+      "scheduleSource": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+      "channels": [],
+      "channelEvidence": {},
+      "channelStatus": "pending",
+      "verificationStatus": "verified",
+      "channelCheckedAt": "2026-11-03T19:13:17+01:00",
+      "scheduleEvidence": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "LaLiga · Jornada 11 · Levante – Atlético de Madrid · Sábado 31 de octubre · 14:00",
+        "checkedAt": "2026-11-03T19:13:17+01:00"
+      },
+      "source": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/"
     },
     {
       "id": "2026-11-03-bayern",
-      "date": "2026-11-03",
-      "time": "21:00",
+      "season": 2026,
+      "round": "4",
       "home": "Atlético de Madrid",
       "away": "Bayern Múnich",
       "competition": "Champions League",
+      "date": "2026-11-03",
+      "dateCandidates": [
+        "2026-11-03"
+      ],
+      "dateLabel": "Martes 3 de noviembre",
+      "time": "21:00",
+      "scheduleStatus": "confirmed",
+      "scheduleSource": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
       "channels": [
         "M_CHAMPIONS",
         "M_PLUS"
       ],
-      "source": "https://www.movistarplus.es/deportes/futbol/horarios"
+      "channelEvidence": {
+        "M_CHAMPIONS": [
+          {
+            "url": "https://www.futbolenlatv.es/equipo/at-madrid",
+            "text": "2026-11-03 21:00 · Atlético de Madrid – Bayern Múnich · Movistar Plus+ (M7): VER PARTIDO, Orange Fútbol 1 (107), M+ Liga de Campeones (M60 O115), M+ Liga de Campeones 4 (M180 O119), LaLiga TV Bar",
+            "checkedAt": "2026-11-03T19:13:17+01:00"
+          }
+        ],
+        "M_PLUS": [
+          {
+            "url": "https://www.futbolenlatv.es/equipo/at-madrid",
+            "text": "2026-11-03 · Atlético de Madrid – Bayern Múnich · Movistar Plus+ (M7): VER PARTIDO, Orange Fútbol 1 (107), M+ Liga de Campeones (M60 O115), M+ Liga de Campeones 4 (M180 O119), LaLiga TV Bar",
+            "checkedAt": "2026-11-03T19:13:17+01:00"
+          },
+          {
+            "url": "https://www.movistarplus.es/deportes/futbol/horarios",
+            "text": "UEFA Champions League: Fase liga.       Jornada 4: At. Madrid - Bayern Múnich · Hoy - 20:53h",
+            "checkedAt": "2026-11-03T19:13:17+01:00"
+          }
+        ]
+      },
+      "channelStatus": "listed",
+      "verificationStatus": "verified",
+      "channelCheckedAt": "2026-11-03T19:13:17+01:00",
+      "scheduleEvidence": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "Champions League · Jornada 4 · Atlético de Madrid – Bayern Múnich · Martes 3 de noviembre · 21:00",
+        "checkedAt": "2026-11-03T19:13:17+01:00"
+      },
+      "source": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/"
     },
     {
       "id": "2026-11-08-barcelona",
-      "date": "2026-11-08",
-      "time": "21:00",
+      "season": 2026,
+      "round": "12",
       "home": "Atlético de Madrid",
       "away": "Barcelona",
       "competition": "LaLiga",
+      "date": "2026-11-08",
+      "dateCandidates": [
+        "2026-11-08"
+      ],
+      "dateLabel": "Domingo 8 de noviembre",
+      "time": "21:00",
+      "scheduleStatus": "confirmed",
+      "scheduleSource": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
       "channels": [
         "M_LALIGA"
       ],
-      "source": "https://www.laliga.com/clubes/atletico-de-madrid/proximos-partidos"
+      "channelEvidence": {
+        "M_LALIGA": [
+          {
+            "url": "https://www.futbolenlatv.es/equipo/at-madrid",
+            "text": "2026-11-08 21:00 · Atlético de Madrid – Barcelona · M+ LALIGA (M54 O110), M+ LALIGA HDR (M440 O111), LaLiga TV Bar",
+            "checkedAt": "2026-11-03T19:13:17+01:00"
+          }
+        ]
+      },
+      "channelStatus": "listed",
+      "verificationStatus": "verified",
+      "channelCheckedAt": "2026-11-03T19:13:17+01:00",
+      "scheduleEvidence": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "LaLiga · Jornada 12 · Atlético de Madrid – Barcelona · Domingo 8 de noviembre · 21:00",
+        "checkedAt": "2026-11-03T19:13:17+01:00"
+      },
+      "source": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/"
     },
     {
       "id": "2026-11-22-getafe",
-      "date": "2026-11-22",
-      "time": "21:00",
+      "season": 2026,
+      "round": "13",
       "home": "Getafe",
       "away": "Atlético de Madrid",
       "competition": "LaLiga",
+      "date": "2026-11-22",
+      "dateCandidates": [
+        "2026-11-22"
+      ],
+      "dateLabel": "Domingo 22 de noviembre",
+      "time": "21:00",
+      "scheduleStatus": "confirmed",
+      "scheduleSource": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
       "channels": [
         "M_LALIGA"
       ],
-      "source": "https://www.laliga.com/clubes/atletico-de-madrid/proximos-partidos"
+      "channelEvidence": {
+        "M_LALIGA": [
+          {
+            "url": "https://www.futbolenlatv.es/equipo/at-madrid",
+            "text": "2026-11-22 21:00 · Getafe – Atlético de Madrid · M+ LALIGA (M54 O110), M+ LALIGA HDR (M440 O111), LaLiga TV Bar",
+            "checkedAt": "2026-11-03T19:13:17+01:00"
+          }
+        ]
+      },
+      "channelStatus": "listed",
+      "verificationStatus": "verified",
+      "channelCheckedAt": "2026-11-03T19:13:17+01:00",
+      "scheduleEvidence": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "LaLiga · Jornada 13 · Getafe – Atlético de Madrid · Domingo 22 de noviembre · 21:00",
+        "checkedAt": "2026-11-03T19:13:17+01:00"
+      },
+      "source": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/"
     },
     {
       "id": "2026-11-25-viking",
-      "date": "2026-11-25",
-      "time": "21:00",
+      "season": 2026,
+      "round": "5",
       "home": "Atlético de Madrid",
       "away": "Viking FK",
       "competition": "Champions League",
+      "date": "2026-11-25",
+      "dateCandidates": [
+        "2026-11-25"
+      ],
+      "dateLabel": "Miércoles 25 de noviembre",
+      "time": "21:00",
+      "scheduleStatus": "confirmed",
+      "scheduleSource": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
       "channels": [],
-      "source": "https://www.futbolenlatv.es/equipo/at-madrid"
+      "channelEvidence": {},
+      "channelStatus": "pending",
+      "verificationStatus": "verified",
+      "channelCheckedAt": "2026-11-03T19:13:17+01:00",
+      "scheduleEvidence": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "Champions League · Jornada 5 · Atlético de Madrid – Viking FK · Miércoles 25 de noviembre · 21:00",
+        "checkedAt": "2026-11-03T19:13:17+01:00"
+      },
+      "source": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/"
     },
     {
       "id": "2026-11-29-elche",
-      "date": "2026-11-29",
-      "time": "17:00",
+      "season": 2026,
+      "round": "14",
       "home": "Elche",
       "away": "Atlético de Madrid",
       "competition": "LaLiga",
+      "date": null,
+      "dateCandidates": [
+        "2026-11-28",
+        "2026-11-29"
+      ],
+      "dateLabel": "Sábado 28 o domingo 29 de noviembre",
+      "time": null,
+      "scheduleStatus": "pending",
+      "scheduleSource": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
       "channels": [
         "M_LALIGA",
         "M_PLUS"
       ],
-      "source": "https://www.movistarplus.es/deportes/futbol/horarios"
+      "channelEvidence": {
+        "M_LALIGA": [
+          {
+            "url": "https://www.futbolenlatv.es/equipo/at-madrid",
+            "text": "2026-11-29 17:00 · Elche – Atlético de Madrid · M+ LALIGA (M54 O110), Movistar Plus+ (M7): VER PARTIDO, Orange Fútbol 1 (107), M+ LALIGA HDR (M440 O111), LaLiga TV Bar",
+            "checkedAt": "2026-11-03T19:13:17+01:00"
+          }
+        ],
+        "M_PLUS": [
+          {
+            "url": "https://www.futbolenlatv.es/equipo/at-madrid",
+            "text": "2026-11-29 · Elche – Atlético de Madrid · M+ LALIGA (M54 O110), Movistar Plus+ (M7): VER PARTIDO, Orange Fútbol 1 (107), M+ LALIGA HDR (M440 O111), LaLiga TV Bar",
+            "checkedAt": "2026-11-03T19:13:17+01:00"
+          },
+          {
+            "url": "https://www.movistarplus.es/deportes/futbol/horarios",
+            "text": "Jornada 14: Elche - At.Madrid, 29 NOV. ·  29 NOV.",
+            "checkedAt": "2026-11-03T19:13:17+01:00"
+          }
+        ]
+      },
+      "channelStatus": "listed",
+      "verificationStatus": "verified",
+      "channelCheckedAt": "2026-11-03T19:13:17+01:00",
+      "scheduleEvidence": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "LaLiga · Jornada 14 · Elche – Atlético de Madrid · Sábado 28 o domingo 29 de noviembre · Sin confirmar",
+        "checkedAt": "2026-11-03T19:13:17+01:00"
+      },
+      "source": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/"
+    },
+    {
+      "id": "46b4c484a4f18c8cbb18",
+      "season": 2026,
+      "round": "23",
+      "home": "Barcelona",
+      "away": "Atlético de Madrid",
+      "competition": "LaLiga",
+      "date": null,
+      "dateCandidates": [
+        "2026-12-01",
+        "2026-12-02",
+        "2026-12-03"
+      ],
+      "dateLabel": "1, 2 o 3 de diciembre",
+      "time": null,
+      "scheduleStatus": "pending",
+      "scheduleSource": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+      "channels": [],
+      "channelEvidence": {},
+      "channelStatus": "pending",
+      "verificationStatus": "verified",
+      "channelCheckedAt": "2026-11-03T19:13:17+01:00",
+      "scheduleEvidence": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "LaLiga · Jornada 23 · Barcelona – Atlético de Madrid · 1, 2 o 3 de diciembre · Sin confirmar",
+        "checkedAt": "2026-11-03T19:13:17+01:00"
+      },
+      "source": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/"
     },
     {
       "id": "2026-12-06-betis",
-      "date": "2026-12-06",
-      "time": "17:00",
+      "season": 2026,
+      "round": "15",
       "home": "Atlético de Madrid",
       "away": "Betis",
       "competition": "LaLiga",
+      "date": null,
+      "dateCandidates": [
+        "2026-12-05",
+        "2026-12-06"
+      ],
+      "dateLabel": "Sábado 5 o domingo 6 de diciembre",
+      "time": null,
+      "scheduleStatus": "pending",
+      "scheduleSource": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
       "channels": [],
-      "source": "https://www.futbolenlatv.es/equipo/at-madrid"
+      "channelEvidence": {},
+      "channelStatus": "pending",
+      "verificationStatus": "verified",
+      "channelCheckedAt": "2026-11-03T19:13:17+01:00",
+      "scheduleEvidence": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "LaLiga · Jornada 15 · Atlético de Madrid – Betis · Sábado 5 o domingo 6 de diciembre · Sin confirmar",
+        "checkedAt": "2026-11-03T19:13:17+01:00"
+      },
+      "source": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/"
     },
     {
       "id": "2026-12-09-psv",
-      "date": "2026-12-09",
-      "time": "21:00",
+      "season": 2026,
+      "round": "6",
       "home": "PSV",
       "away": "Atlético de Madrid",
       "competition": "Champions League",
+      "date": "2026-12-09",
+      "dateCandidates": [
+        "2026-12-09"
+      ],
+      "dateLabel": "Miércoles 9 de diciembre",
+      "time": "21:00",
+      "scheduleStatus": "confirmed",
+      "scheduleSource": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
       "channels": [],
-      "source": "https://www.futbolenlatv.es/equipo/at-madrid"
+      "channelEvidence": {},
+      "channelStatus": "pending",
+      "verificationStatus": "verified",
+      "channelCheckedAt": "2026-11-03T19:13:17+01:00",
+      "scheduleEvidence": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "Champions League · Jornada 6 · PSV – Atlético de Madrid · Miércoles 9 de diciembre · 21:00",
+        "checkedAt": "2026-11-03T19:13:17+01:00"
+      },
+      "source": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/"
+    },
+    {
+      "id": "bcc843875d71786a39e3",
+      "season": 2026,
+      "round": "16",
+      "home": "Atlético de Madrid",
+      "away": "Valencia",
+      "competition": "LaLiga",
+      "date": null,
+      "dateCandidates": [
+        "2026-12-12",
+        "2026-12-13"
+      ],
+      "dateLabel": "Sábado 12 o domingo 13 de diciembre",
+      "time": null,
+      "scheduleStatus": "pending",
+      "scheduleSource": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+      "channels": [],
+      "channelEvidence": {},
+      "channelStatus": "pending",
+      "verificationStatus": "verified",
+      "channelCheckedAt": "2026-11-03T19:13:17+01:00",
+      "scheduleEvidence": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "LaLiga · Jornada 16 · Atlético de Madrid – Valencia · Sábado 12 o domingo 13 de diciembre · Sin confirmar",
+        "checkedAt": "2026-11-03T19:13:17+01:00"
+      },
+      "source": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/"
+    },
+    {
+      "id": "8086865d115ff8112ddd",
+      "season": 2026,
+      "round": "17",
+      "home": "Celta",
+      "away": "Atlético de Madrid",
+      "competition": "LaLiga",
+      "date": null,
+      "dateCandidates": [
+        "2026-12-19",
+        "2026-12-20"
+      ],
+      "dateLabel": "Sábado 19 o domingo 20 de diciembre",
+      "time": null,
+      "scheduleStatus": "pending",
+      "scheduleSource": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+      "channels": [],
+      "channelEvidence": {},
+      "channelStatus": "pending",
+      "verificationStatus": "verified",
+      "channelCheckedAt": "2026-11-03T19:13:17+01:00",
+      "scheduleEvidence": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "LaLiga · Jornada 17 · Celta – Atlético de Madrid · Sábado 19 o domingo 20 de diciembre · Sin confirmar",
+        "checkedAt": "2026-11-03T19:13:17+01:00"
+      },
+      "source": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/"
+    },
+    {
+      "id": "d553196e880287f99ded",
+      "season": 2026,
+      "round": "18",
+      "home": "Rayo Vallecano",
+      "away": "Atlético de Madrid",
+      "competition": "LaLiga",
+      "date": null,
+      "dateCandidates": [
+        "2027-01-02",
+        "2027-01-03"
+      ],
+      "dateLabel": "Sábado 2 o domingo 3 de enero",
+      "time": null,
+      "scheduleStatus": "pending",
+      "scheduleSource": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+      "channels": [],
+      "channelEvidence": {},
+      "channelStatus": "pending",
+      "verificationStatus": "verified",
+      "channelCheckedAt": "2026-11-03T19:13:17+01:00",
+      "scheduleEvidence": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "LaLiga · Jornada 18 · Rayo Vallecano – Atlético de Madrid · Sábado 2 o domingo 3 de enero · Sin confirmar",
+        "checkedAt": "2026-11-03T19:13:17+01:00"
+      },
+      "source": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/"
+    },
+    {
+      "id": "bddbffb9d4f0b993a95c",
+      "season": 2026,
+      "round": "19",
+      "home": "Atlético de Madrid",
+      "away": "Racing Santander",
+      "competition": "LaLiga",
+      "date": null,
+      "dateCandidates": [
+        "2027-01-09",
+        "2027-01-10"
+      ],
+      "dateLabel": "Sábado 9 o domingo 10 de enero",
+      "time": null,
+      "scheduleStatus": "pending",
+      "scheduleSource": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+      "channels": [],
+      "channelEvidence": {},
+      "channelStatus": "pending",
+      "verificationStatus": "verified",
+      "channelCheckedAt": "2026-11-03T19:13:17+01:00",
+      "scheduleEvidence": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "LaLiga · Jornada 19 · Atlético de Madrid – Racing Santander · Sábado 9 o domingo 10 de enero · Sin confirmar",
+        "checkedAt": "2026-11-03T19:13:17+01:00"
+      },
+      "source": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/"
+    },
+    {
+      "id": "9a2fe54e894317122168",
+      "season": 2026,
+      "round": "20",
+      "home": "Atlético de Madrid",
+      "away": "Real Sociedad",
+      "competition": "LaLiga",
+      "date": null,
+      "dateCandidates": [
+        "2027-01-16",
+        "2027-01-17"
+      ],
+      "dateLabel": "Sábado 16 o domingo 17 de enero",
+      "time": null,
+      "scheduleStatus": "pending",
+      "scheduleSource": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+      "channels": [],
+      "channelEvidence": {},
+      "channelStatus": "pending",
+      "verificationStatus": "verified",
+      "channelCheckedAt": "2026-11-03T19:13:17+01:00",
+      "scheduleEvidence": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "LaLiga · Jornada 20 · Atlético de Madrid – Real Sociedad · Sábado 16 o domingo 17 de enero · Sin confirmar",
+        "checkedAt": "2026-11-03T19:13:17+01:00"
+      },
+      "source": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/"
+    },
+    {
+      "id": "3e94361e699b23b1c899",
+      "season": 2026,
+      "round": "7",
+      "home": "Bodø/Glimt",
+      "away": "Atlético de Madrid",
+      "competition": "Champions League",
+      "date": "2027-01-19",
+      "dateCandidates": [
+        "2027-01-19"
+      ],
+      "dateLabel": "Martes 19 de enero",
+      "time": "18:45",
+      "scheduleStatus": "confirmed",
+      "scheduleSource": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+      "channels": [],
+      "channelEvidence": {},
+      "channelStatus": "pending",
+      "verificationStatus": "verified",
+      "channelCheckedAt": "2026-11-03T19:13:17+01:00",
+      "scheduleEvidence": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "Champions League · Jornada 7 · Bodø/Glimt – Atlético de Madrid · Martes 19 de enero · 18:45",
+        "checkedAt": "2026-11-03T19:13:17+01:00"
+      },
+      "source": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/"
+    },
+    {
+      "id": "90a47a6fa59bfa73e8da",
+      "season": 2026,
+      "round": "21",
+      "home": "Deportivo",
+      "away": "Atlético de Madrid",
+      "competition": "LaLiga",
+      "date": null,
+      "dateCandidates": [
+        "2027-01-23",
+        "2027-01-24"
+      ],
+      "dateLabel": "Sábado 23 o domingo 24 de enero",
+      "time": null,
+      "scheduleStatus": "pending",
+      "scheduleSource": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+      "channels": [],
+      "channelEvidence": {},
+      "channelStatus": "pending",
+      "verificationStatus": "verified",
+      "channelCheckedAt": "2026-11-03T19:13:17+01:00",
+      "scheduleEvidence": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "LaLiga · Jornada 21 · Deportivo – Atlético de Madrid · Sábado 23 o domingo 24 de enero · Sin confirmar",
+        "checkedAt": "2026-11-03T19:13:17+01:00"
+      },
+      "source": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/"
+    },
+    {
+      "id": "dc40cab001329618abd9",
+      "season": 2026,
+      "round": "8",
+      "home": "Atlético de Madrid",
+      "away": "Fenerbahçe",
+      "competition": "Champions League",
+      "date": "2027-01-27",
+      "dateCandidates": [
+        "2027-01-27"
+      ],
+      "dateLabel": "Miércoles 27 de enero",
+      "time": "21:00",
+      "scheduleStatus": "confirmed",
+      "scheduleSource": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+      "channels": [],
+      "channelEvidence": {},
+      "channelStatus": "pending",
+      "verificationStatus": "verified",
+      "channelCheckedAt": "2026-11-03T19:13:17+01:00",
+      "scheduleEvidence": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "Champions League · Jornada 8 · Atlético de Madrid – Fenerbahçe · Miércoles 27 de enero · 21:00",
+        "checkedAt": "2026-11-03T19:13:17+01:00"
+      },
+      "source": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/"
+    },
+    {
+      "id": "1c28b77d2a62599baeb2",
+      "season": 2026,
+      "round": "22",
+      "home": "Atlético de Madrid",
+      "away": "Espanyol",
+      "competition": "LaLiga",
+      "date": null,
+      "dateCandidates": [
+        "2027-01-30",
+        "2027-01-31"
+      ],
+      "dateLabel": "Sábado 30 o domingo 31 de enero",
+      "time": null,
+      "scheduleStatus": "pending",
+      "scheduleSource": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+      "channels": [],
+      "channelEvidence": {},
+      "channelStatus": "pending",
+      "verificationStatus": "verified",
+      "channelCheckedAt": "2026-11-03T19:13:17+01:00",
+      "scheduleEvidence": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "LaLiga · Jornada 22 · Atlético de Madrid – Espanyol · Sábado 30 o domingo 31 de enero · Sin confirmar",
+        "checkedAt": "2026-11-03T19:13:17+01:00"
+      },
+      "source": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/"
+    },
+    {
+      "id": "50b011a24688695e6aa7",
+      "season": 2026,
+      "round": "semifinal",
+      "home": "Barcelona",
+      "away": "Atlético de Madrid",
+      "competition": "Supercopa de España",
+      "date": "2027-02-02",
+      "dateCandidates": [
+        "2027-02-02"
+      ],
+      "dateLabel": "Martes 2 de febrero",
+      "time": "22:00",
+      "scheduleStatus": "confirmed",
+      "scheduleSource": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+      "channels": [],
+      "channelEvidence": {},
+      "channelStatus": "pending",
+      "verificationStatus": "verified",
+      "channelCheckedAt": "2026-11-03T19:13:17+01:00",
+      "scheduleEvidence": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "Supercopa de España · Jornada semifinal · Barcelona – Atlético de Madrid · Martes 2 de febrero · 22:00",
+        "checkedAt": "2026-11-03T19:13:17+01:00"
+      },
+      "source": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/"
+    },
+    {
+      "id": "2d3e04aa5f5d55fe7642",
+      "season": 2026,
+      "round": "24",
+      "home": "Osasuna",
+      "away": "Atlético de Madrid",
+      "competition": "LaLiga",
+      "date": null,
+      "dateCandidates": [
+        "2027-02-13",
+        "2027-02-14"
+      ],
+      "dateLabel": "Sábado 13 o domingo 14 de febrero",
+      "time": null,
+      "scheduleStatus": "pending",
+      "scheduleSource": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+      "channels": [],
+      "channelEvidence": {},
+      "channelStatus": "pending",
+      "verificationStatus": "verified",
+      "channelCheckedAt": "2026-11-03T19:13:17+01:00",
+      "scheduleEvidence": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "LaLiga · Jornada 24 · Osasuna – Atlético de Madrid · Sábado 13 o domingo 14 de febrero · Sin confirmar",
+        "checkedAt": "2026-11-03T19:13:17+01:00"
+      },
+      "source": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/"
+    },
+    {
+      "id": "da25a4d58b0e49ba3134",
+      "season": 2026,
+      "round": "25",
+      "home": "Atlético de Madrid",
+      "away": "Elche",
+      "competition": "LaLiga",
+      "date": null,
+      "dateCandidates": [
+        "2027-02-20",
+        "2027-02-21"
+      ],
+      "dateLabel": "Sábado 20 o domingo 21 de febrero",
+      "time": null,
+      "scheduleStatus": "pending",
+      "scheduleSource": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+      "channels": [],
+      "channelEvidence": {},
+      "channelStatus": "pending",
+      "verificationStatus": "verified",
+      "channelCheckedAt": "2026-11-03T19:13:17+01:00",
+      "scheduleEvidence": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "LaLiga · Jornada 25 · Atlético de Madrid – Elche · Sábado 20 o domingo 21 de febrero · Sin confirmar",
+        "checkedAt": "2026-11-03T19:13:17+01:00"
+      },
+      "source": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/"
+    },
+    {
+      "id": "eb07d1eaeb88c369558b",
+      "season": 2026,
+      "round": "26",
+      "home": "Málaga",
+      "away": "Atlético de Madrid",
+      "competition": "LaLiga",
+      "date": null,
+      "dateCandidates": [
+        "2027-02-27",
+        "2027-02-28"
+      ],
+      "dateLabel": "Sábado 27 o domingo 28 de febrero",
+      "time": null,
+      "scheduleStatus": "pending",
+      "scheduleSource": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+      "channels": [],
+      "channelEvidence": {},
+      "channelStatus": "pending",
+      "verificationStatus": "verified",
+      "channelCheckedAt": "2026-11-03T19:13:17+01:00",
+      "scheduleEvidence": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "LaLiga · Jornada 26 · Málaga – Atlético de Madrid · Sábado 27 o domingo 28 de febrero · Sin confirmar",
+        "checkedAt": "2026-11-03T19:13:17+01:00"
+      },
+      "source": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/"
+    },
+    {
+      "id": "983cbce770ba276a7098",
+      "season": 2026,
+      "round": "27",
+      "home": "Atlético de Madrid",
+      "away": "Celta",
+      "competition": "LaLiga",
+      "date": null,
+      "dateCandidates": [
+        "2027-03-06",
+        "2027-03-07"
+      ],
+      "dateLabel": "Sábado 6 o domingo 7 de marzo",
+      "time": null,
+      "scheduleStatus": "pending",
+      "scheduleSource": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+      "channels": [],
+      "channelEvidence": {},
+      "channelStatus": "pending",
+      "verificationStatus": "verified",
+      "channelCheckedAt": "2026-11-03T19:13:17+01:00",
+      "scheduleEvidence": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "LaLiga · Jornada 27 · Atlético de Madrid – Celta · Sábado 6 o domingo 7 de marzo · Sin confirmar",
+        "checkedAt": "2026-11-03T19:13:17+01:00"
+      },
+      "source": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/"
+    },
+    {
+      "id": "255e61869395d11594dd",
+      "season": 2026,
+      "round": "28",
+      "home": "Racing Santander",
+      "away": "Atlético de Madrid",
+      "competition": "LaLiga",
+      "date": null,
+      "dateCandidates": [
+        "2027-03-13",
+        "2027-03-14"
+      ],
+      "dateLabel": "Sábado 13 o domingo 14 de marzo",
+      "time": null,
+      "scheduleStatus": "pending",
+      "scheduleSource": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+      "channels": [],
+      "channelEvidence": {},
+      "channelStatus": "pending",
+      "verificationStatus": "verified",
+      "channelCheckedAt": "2026-11-03T19:13:17+01:00",
+      "scheduleEvidence": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "LaLiga · Jornada 28 · Racing Santander – Atlético de Madrid · Sábado 13 o domingo 14 de marzo · Sin confirmar",
+        "checkedAt": "2026-11-03T19:13:17+01:00"
+      },
+      "source": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/"
+    },
+    {
+      "id": "3f6443fe41941f7e6383",
+      "season": 2026,
+      "round": "29",
+      "home": "Atlético de Madrid",
+      "away": "Getafe",
+      "competition": "LaLiga",
+      "date": null,
+      "dateCandidates": [
+        "2027-03-20",
+        "2027-03-21"
+      ],
+      "dateLabel": "Sábado 20 o domingo 21 de marzo",
+      "time": null,
+      "scheduleStatus": "pending",
+      "scheduleSource": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+      "channels": [],
+      "channelEvidence": {},
+      "channelStatus": "pending",
+      "verificationStatus": "verified",
+      "channelCheckedAt": "2026-11-03T19:13:17+01:00",
+      "scheduleEvidence": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "LaLiga · Jornada 29 · Atlético de Madrid – Getafe · Sábado 20 o domingo 21 de marzo · Sin confirmar",
+        "checkedAt": "2026-11-03T19:13:17+01:00"
+      },
+      "source": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/"
+    },
+    {
+      "id": "f53e6e3e2eb3ec3688ed",
+      "season": 2026,
+      "round": "30",
+      "home": "Real Madrid",
+      "away": "Atlético de Madrid",
+      "competition": "LaLiga",
+      "date": null,
+      "dateCandidates": [
+        "2027-04-03",
+        "2027-04-04"
+      ],
+      "dateLabel": "Sábado 3 o domingo 4 de abril",
+      "time": null,
+      "scheduleStatus": "pending",
+      "scheduleSource": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+      "channels": [],
+      "channelEvidence": {},
+      "channelStatus": "pending",
+      "verificationStatus": "verified",
+      "channelCheckedAt": "2026-11-03T19:13:17+01:00",
+      "scheduleEvidence": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "LaLiga · Jornada 30 · Real Madrid – Atlético de Madrid · Sábado 3 o domingo 4 de abril · Sin confirmar",
+        "checkedAt": "2026-11-03T19:13:17+01:00"
+      },
+      "source": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/"
+    },
+    {
+      "id": "5ba7c3e59d247144a6fb",
+      "season": 2026,
+      "round": "31",
+      "home": "Atlético de Madrid",
+      "away": "Levante",
+      "competition": "LaLiga",
+      "date": null,
+      "dateCandidates": [
+        "2027-04-10",
+        "2027-04-11"
+      ],
+      "dateLabel": "Sábado 10 o domingo 11 de abril",
+      "time": null,
+      "scheduleStatus": "pending",
+      "scheduleSource": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+      "channels": [],
+      "channelEvidence": {},
+      "channelStatus": "pending",
+      "verificationStatus": "verified",
+      "channelCheckedAt": "2026-11-03T19:13:17+01:00",
+      "scheduleEvidence": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "LaLiga · Jornada 31 · Atlético de Madrid – Levante · Sábado 10 o domingo 11 de abril · Sin confirmar",
+        "checkedAt": "2026-11-03T19:13:17+01:00"
+      },
+      "source": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/"
+    },
+    {
+      "id": "276a5b50563be6169fc7",
+      "season": 2026,
+      "round": "32",
+      "home": "Atlético de Madrid",
+      "away": "Sevilla",
+      "competition": "LaLiga",
+      "date": null,
+      "dateCandidates": [
+        "2027-04-17",
+        "2027-04-18"
+      ],
+      "dateLabel": "Sábado 17 o domingo 18 de abril",
+      "time": null,
+      "scheduleStatus": "pending",
+      "scheduleSource": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+      "channels": [],
+      "channelEvidence": {},
+      "channelStatus": "pending",
+      "verificationStatus": "verified",
+      "channelCheckedAt": "2026-11-03T19:13:17+01:00",
+      "scheduleEvidence": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "LaLiga · Jornada 32 · Atlético de Madrid – Sevilla · Sábado 17 o domingo 18 de abril · Sin confirmar",
+        "checkedAt": "2026-11-03T19:13:17+01:00"
+      },
+      "source": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/"
+    },
+    {
+      "id": "0030ff3bf56a1e97ee72",
+      "season": 2026,
+      "round": "33",
+      "home": "Villarreal",
+      "away": "Atlético de Madrid",
+      "competition": "LaLiga",
+      "date": null,
+      "dateCandidates": [
+        "2027-04-20",
+        "2027-04-21",
+        "2027-04-22"
+      ],
+      "dateLabel": "Martes 20, miércoles 21 o jueves 22 de abril",
+      "time": null,
+      "scheduleStatus": "pending",
+      "scheduleSource": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+      "channels": [],
+      "channelEvidence": {},
+      "channelStatus": "pending",
+      "verificationStatus": "verified",
+      "channelCheckedAt": "2026-11-03T19:13:17+01:00",
+      "scheduleEvidence": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "LaLiga · Jornada 33 · Villarreal – Atlético de Madrid · Martes 20, miércoles 21 o jueves 22 de abril · Sin confirmar",
+        "checkedAt": "2026-11-03T19:13:17+01:00"
+      },
+      "source": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/"
+    },
+    {
+      "id": "c1345ed5306f70abbc48",
+      "season": 2026,
+      "round": "34",
+      "home": "Atlético de Madrid",
+      "away": "Alavés",
+      "competition": "LaLiga",
+      "date": null,
+      "dateCandidates": [
+        "2027-05-01",
+        "2027-05-02"
+      ],
+      "dateLabel": "Sábado 1 o domingo 2 de mayo",
+      "time": null,
+      "scheduleStatus": "pending",
+      "scheduleSource": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+      "channels": [],
+      "channelEvidence": {},
+      "channelStatus": "pending",
+      "verificationStatus": "verified",
+      "channelCheckedAt": "2026-11-03T19:13:17+01:00",
+      "scheduleEvidence": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "LaLiga · Jornada 34 · Atlético de Madrid – Alavés · Sábado 1 o domingo 2 de mayo · Sin confirmar",
+        "checkedAt": "2026-11-03T19:13:17+01:00"
+      },
+      "source": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/"
+    },
+    {
+      "id": "5b217c0e38a15cb0db9d",
+      "season": 2026,
+      "round": "35",
+      "home": "Valencia",
+      "away": "Atlético de Madrid",
+      "competition": "LaLiga",
+      "date": null,
+      "dateCandidates": [
+        "2027-05-08",
+        "2027-05-09"
+      ],
+      "dateLabel": "Sábado 8 o domingo 9 de mayo",
+      "time": null,
+      "scheduleStatus": "pending",
+      "scheduleSource": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+      "channels": [],
+      "channelEvidence": {},
+      "channelStatus": "pending",
+      "verificationStatus": "verified",
+      "channelCheckedAt": "2026-11-03T19:13:17+01:00",
+      "scheduleEvidence": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "LaLiga · Jornada 35 · Valencia – Atlético de Madrid · Sábado 8 o domingo 9 de mayo · Sin confirmar",
+        "checkedAt": "2026-11-03T19:13:17+01:00"
+      },
+      "source": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/"
+    },
+    {
+      "id": "81c511e6d002caceb3f5",
+      "season": 2026,
+      "round": "36",
+      "home": "Atlético de Madrid",
+      "away": "Rayo Vallecano",
+      "competition": "LaLiga",
+      "date": null,
+      "dateCandidates": [
+        "2027-05-15",
+        "2027-05-16"
+      ],
+      "dateLabel": "Sábado 15 o domingo 16 de mayo",
+      "time": null,
+      "scheduleStatus": "pending",
+      "scheduleSource": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+      "channels": [],
+      "channelEvidence": {},
+      "channelStatus": "pending",
+      "verificationStatus": "verified",
+      "channelCheckedAt": "2026-11-03T19:13:17+01:00",
+      "scheduleEvidence": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "LaLiga · Jornada 36 · Atlético de Madrid – Rayo Vallecano · Sábado 15 o domingo 16 de mayo · Sin confirmar",
+        "checkedAt": "2026-11-03T19:13:17+01:00"
+      },
+      "source": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/"
+    },
+    {
+      "id": "9908d0d73cba3ad4e465",
+      "season": 2026,
+      "round": "37",
+      "home": "Atlético de Madrid",
+      "away": "Athletic Club",
+      "competition": "LaLiga",
+      "date": null,
+      "dateCandidates": [
+        "2027-05-22",
+        "2027-05-23"
+      ],
+      "dateLabel": "Sábado 22 o domingo 23 de mayo",
+      "time": null,
+      "scheduleStatus": "pending",
+      "scheduleSource": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+      "channels": [],
+      "channelEvidence": {},
+      "channelStatus": "pending",
+      "verificationStatus": "verified",
+      "channelCheckedAt": "2026-11-03T19:13:17+01:00",
+      "scheduleEvidence": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "LaLiga · Jornada 37 · Atlético de Madrid – Athletic Club · Sábado 22 o domingo 23 de mayo · Sin confirmar",
+        "checkedAt": "2026-11-03T19:13:17+01:00"
+      },
+      "source": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/"
+    },
+    {
+      "id": "ccf31717149b6570dd50",
+      "season": 2026,
+      "round": "38",
+      "home": "Betis",
+      "away": "Atlético de Madrid",
+      "competition": "LaLiga",
+      "date": null,
+      "dateCandidates": [
+        "2027-05-29",
+        "2027-05-30"
+      ],
+      "dateLabel": "Sábado 29 o domingo 30 de mayo",
+      "time": null,
+      "scheduleStatus": "pending",
+      "scheduleSource": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+      "channels": [],
+      "channelEvidence": {},
+      "channelStatus": "pending",
+      "verificationStatus": "verified",
+      "channelCheckedAt": "2026-11-03T19:13:17+01:00",
+      "scheduleEvidence": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "LaLiga · Jornada 38 · Betis – Atlético de Madrid · Sábado 29 o domingo 30 de mayo · Sin confirmar",
+        "checkedAt": "2026-11-03T19:13:17+01:00"
+      },
+      "source": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/"
+    }
+  ],
+  "schemaVersion": 2,
+  "timezone": "Europe/Madrid",
+  "checkedAt": "2026-11-03T19:13:17+01:00",
+  "sources": [
+    {
+      "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+      "checkedAt": "2026-11-03T19:13:17+01:00",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.futbolenlatv.es/equipo/at-madrid",
+      "checkedAt": "2026-11-03T19:13:17+01:00",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.movistarplus.es/deportes/futbol/horarios",
+      "checkedAt": "2026-11-03T19:13:17+01:00",
+      "status": "ok"
     }
   ]
 }
