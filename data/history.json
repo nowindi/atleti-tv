@@ -1782,5 +1782,55 @@
       },
       "channels": {}
     }
+  },
+  {
+    "at": "2026-11-04T16:23:42+01:00",
+    "matchId": "2026-11-03-bayern",
+    "kind": "updated",
+    "before": {
+      "home": "Atlético de Madrid",
+      "away": "Bayern Múnich",
+      "competition": "Champions League",
+      "season": 2026,
+      "round": "4",
+      "date": "2026-11-03",
+      "dateCandidates": [
+        "2026-11-03"
+      ],
+      "dateLabel": "Martes 3 de noviembre",
+      "time": "21:00",
+      "scheduleStatus": "confirmed",
+      "channels": [
+        "M_CHAMPIONS",
+        "M_PLUS"
+      ],
+      "channelStatus": "listed",
+      "verificationStatus": "verified"
+    },
+    "after": {
+      "home": "Atlético de Madrid",
+      "away": "Bayern Múnich",
+      "competition": "Champions League",
+      "season": 2026,
+      "round": "4",
+      "date": "2026-11-03",
+      "dateCandidates": [
+        "2026-11-03"
+      ],
+      "dateLabel": "Martes 3 de noviembre",
+      "time": "21:00",
+      "scheduleStatus": "confirmed",
+      "channels": [],
+      "channelStatus": "pending",
+      "verificationStatus": "verified"
+    },
+    "evidence": {
+      "schedule": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "Champions League · Jornada 4 · Atlético de Madrid – Bayern Múnich · Martes 3 de noviembre · 21:00",
+        "checkedAt": "2026-11-04T16:23:42+01:00"
+      },
+      "channels": {}
+    }
   }
 ]
