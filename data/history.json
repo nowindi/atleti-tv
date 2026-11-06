@@ -1894,5 +1894,114 @@
         ]
       }
     }
+  },
+  {
+    "at": "2026-11-06T23:05:53+01:00",
+    "matchId": "2026-11-29-elche",
+    "kind": "updated",
+    "before": {
+      "home": "Elche",
+      "away": "Atlético de Madrid",
+      "competition": "LaLiga",
+      "season": 2026,
+      "round": "14",
+      "date": null,
+      "dateCandidates": [
+        "2026-11-28",
+        "2026-11-29"
+      ],
+      "dateLabel": "Sábado 28 o domingo 29 de noviembre",
+      "time": null,
+      "scheduleStatus": "pending",
+      "channels": [
+        "M_LALIGA"
+      ],
+      "channelStatus": "listed",
+      "verificationStatus": "verified"
+    },
+    "after": {
+      "home": "Elche",
+      "away": "Atlético de Madrid",
+      "competition": "LaLiga",
+      "season": 2026,
+      "round": "14",
+      "date": "2026-11-28",
+      "dateCandidates": [
+        "2026-11-28"
+      ],
+      "dateLabel": "Sábado 28 de noviembre",
+      "time": "18:30",
+      "scheduleStatus": "confirmed",
+      "channels": [],
+      "channelStatus": "pending",
+      "verificationStatus": "verified"
+    },
+    "evidence": {
+      "schedule": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "LaLiga · Jornada 14 · Elche – Atlético de Madrid · Sábado 28 de noviembre · 18:30",
+        "checkedAt": "2026-11-06T23:05:53+01:00"
+      },
+      "channels": {}
+    }
+  },
+  {
+    "at": "2026-11-06T23:05:53+01:00",
+    "matchId": "46b4c484a4f18c8cbb18",
+    "kind": "updated",
+    "before": {
+      "home": "Barcelona",
+      "away": "Atlético de Madrid",
+      "competition": "LaLiga",
+      "season": 2026,
+      "round": "23",
+      "date": null,
+      "dateCandidates": [
+        "2026-12-01",
+        "2026-12-02",
+        "2026-12-03"
+      ],
+      "dateLabel": "1, 2 o 3 de diciembre",
+      "time": null,
+      "scheduleStatus": "pending",
+      "channels": [],
+      "channelStatus": "pending",
+      "verificationStatus": "verified"
+    },
+    "after": {
+      "home": "Barcelona",
+      "away": "Atlético de Madrid",
+      "competition": "LaLiga",
+      "season": 2026,
+      "round": "23",
+      "date": "2026-12-02",
+      "dateCandidates": [
+        "2026-12-02"
+      ],
+      "dateLabel": "Miércoles 2 de diciembre",
+      "time": "21:30",
+      "scheduleStatus": "confirmed",
+      "channels": [
+        "DAZN"
+      ],
+      "channelStatus": "listed",
+      "verificationStatus": "verified"
+    },
+    "evidence": {
+      "schedule": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "LaLiga · Jornada 23 · Barcelona – Atlético de Madrid · Miércoles 2 de diciembre · 21:30",
+        "checkedAt": "2026-11-06T23:05:53+01:00"
+      },
+      "channels": {
+        "DAZN": [
+          {
+            "url": "https://www.futbolenlatv.es/equipo/at-madrid",
+            "text": "2026-12-02 21:30 · Barcelona – Atlético de Madrid · DAZN LaLiga (M55 O113), DAZN (Ver en directo), LaLiga TV Bar",
+            "checkedAt": "2026-11-06T23:05:53+01:00"
+          }
+        ]
+      }
+    }
   }
 ]
