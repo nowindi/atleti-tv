@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T15:16:09+01:00",
+  "updatedAt": "2026-11-09T11:00:00+01:00",
   "matches": [
     {
       "id": "63f703f3711de9f169ae",
@@ -604,7 +604,8 @@
       "scheduleStatus": "confirmed",
       "scheduleSource": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
       "channels": [
-        "M_LALIGA"
+        "M_LALIGA",
+        "M_PLUS"
       ],
       "channelEvidence": {
         "M_LALIGA": [
@@ -613,11 +614,18 @@
             "text": "2026-11-28 18:30 · Elche – Atlético de Madrid · M+ LALIGA (M54 O110), Movistar Plus+ (M8): VER PARTIDO, Orange Fútbol 1 (107), M+ LALIGA HDR (M440 O111), LaLiga TV Bar",
             "checkedAt": "2026-11-08T22:07:34+01:00"
           }
+        ],
+        "M_PLUS": [
+          {
+            "url": "https://www.laliga.com/clubes/atletico-de-madrid/proximos-partidos",
+            "text": "SAB 28.11.2026 | 18:30 | Elche CF VS Atlético de Madrid | LALIGA EA SPORTS | Movistar LALIGA,Movistar Plus+,Orange Fútbol 1",
+            "checkedAt": "2026-11-09T11:00:00+01:00"
+          }
         ]
       },
-      "channelStatus": "listed",
+      "channelStatus": "confirmed",
       "verificationStatus": "verified",
-      "channelCheckedAt": "2026-11-08T22:07:34+01:00",
+      "channelCheckedAt": "2026-11-09T11:00:00+01:00",
       "scheduleEvidence": {
         "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
         "text": "LaLiga · Jornada 14 · Elche – Atlético de Madrid · Sábado 28 de noviembre · 18:30",
