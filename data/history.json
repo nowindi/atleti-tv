@@ -2352,5 +2352,35 @@
         ]
       }
     }
+  },
+  {
+    "at": "2026-11-13T10:50:11+01:00",
+    "matchId": "2026-11-29-elche",
+    "kind": "updated",
+    "before": {
+      "channels": [
+        "M_LALIGA"
+      ],
+      "channelStatus": "listed"
+    },
+    "after": {
+      "channels": [
+        "M_LALIGA",
+        "M_PLUS"
+      ],
+      "channelStatus": "confirmed"
+    },
+    "evidence": {
+      "channels": {
+        "M_PLUS": [
+          {
+            "url": "https://www.laliga.com/clubes/atletico-de-madrid/proximos-partidos",
+            "text": "SAB 28.11.2026 | 18:30 | Elche CF VS Atlético de Madrid | LALIGA EA SPORTS | Movistar LALIGA, Movistar Plus+, Orange Fútbol 1",
+            "checkedAt": "2026-11-13T10:50:11+01:00"
+          }
+        ]
+      }
+    },
+    "note": "Restore independently confirmed Movistar Plus+ listing; prevent loss from secondary-source refresh"
   }
 ]
