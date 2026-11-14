@@ -2483,5 +2483,65 @@
       }
     },
     "note": "Restore previously confirmed Movistar Plus+ channel after automated regression; no new external confirmation."
+  },
+  {
+    "at": "2026-11-14T15:07:14+01:00",
+    "matchId": "2026-11-29-elche",
+    "kind": "updated",
+    "before": {
+      "home": "Elche",
+      "away": "Atlético de Madrid",
+      "competition": "LaLiga",
+      "season": 2026,
+      "round": "14",
+      "date": "2026-11-28",
+      "dateCandidates": [
+        "2026-11-28"
+      ],
+      "dateLabel": "Sábado 28 de noviembre",
+      "time": "18:30",
+      "scheduleStatus": "confirmed",
+      "channels": [
+        "M_LALIGA",
+        "M_PLUS"
+      ],
+      "channelStatus": "confirmed",
+      "verificationStatus": "verified"
+    },
+    "after": {
+      "home": "Elche",
+      "away": "Atlético de Madrid",
+      "competition": "LaLiga",
+      "season": 2026,
+      "round": "14",
+      "date": "2026-11-28",
+      "dateCandidates": [
+        "2026-11-28"
+      ],
+      "dateLabel": "Sábado 28 de noviembre",
+      "time": "18:30",
+      "scheduleStatus": "confirmed",
+      "channels": [
+        "M_LALIGA"
+      ],
+      "channelStatus": "listed",
+      "verificationStatus": "verified"
+    },
+    "evidence": {
+      "schedule": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "LaLiga · Jornada 14 · Elche – Atlético de Madrid · Sábado 28 de noviembre · 18:30",
+        "checkedAt": "2026-11-14T15:07:14+01:00"
+      },
+      "channels": {
+        "M_LALIGA": [
+          {
+            "url": "https://www.futbolenlatv.es/equipo/at-madrid",
+            "text": "2026-11-28 18:30 · Elche – Atlético de Madrid · M+ LALIGA (M54 O110), Movistar Plus+ (M8): VER PARTIDO, Orange Fútbol 1 (107), M+ LALIGA HDR (M440 O111), LaLiga TV Bar",
+            "checkedAt": "2026-11-14T15:07:14+01:00"
+          }
+        ]
+      }
+    }
   }
 ]
