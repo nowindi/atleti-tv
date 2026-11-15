@@ -2635,5 +2635,53 @@
         ]
       }
     }
+  },
+  {
+    "at": "2026-11-15T22:44:57+01:00",
+    "matchId": "2026-12-06-betis",
+    "kind": "updated",
+    "before": {
+      "home": "Atlético de Madrid",
+      "away": "Betis",
+      "competition": "LaLiga",
+      "season": 2026,
+      "round": "15",
+      "date": null,
+      "dateCandidates": [
+        "2026-12-05",
+        "2026-12-06"
+      ],
+      "dateLabel": "Sábado 5 o domingo 6 de diciembre",
+      "time": null,
+      "scheduleStatus": "pending",
+      "channels": [],
+      "channelStatus": "pending",
+      "verificationStatus": "verified"
+    },
+    "after": {
+      "home": "Atlético de Madrid",
+      "away": "Betis",
+      "competition": "LaLiga",
+      "season": 2026,
+      "round": "15",
+      "date": "2026-12-06",
+      "dateCandidates": [
+        "2026-12-06"
+      ],
+      "dateLabel": "Domingo 6 de diciembre",
+      "time": "21:00",
+      "scheduleStatus": "confirmed",
+      "channels": [],
+      "channelStatus": "pending",
+      "verificationStatus": "verified"
+    },
+    "evidence": {
+      "schedule": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "LaLiga · Jornada 15 · Atlético de Madrid – Betis · Domingo 6 de diciembre · 21:00",
+        "checkedAt": "2026-11-15T22:44:57+01:00"
+      },
+      "channels": {}
+    }
   }
 ]
