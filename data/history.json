@@ -2914,5 +2914,62 @@
         ]
       }
     }
+  },
+  {
+    "at": "2026-11-19T17:32:06+01:00",
+    "matchId": "2026-11-25-viking",
+    "kind": "updated",
+    "before": {
+      "home": "Atlético de Madrid",
+      "away": "Viking FK",
+      "competition": "Champions League",
+      "season": 2026,
+      "round": "5",
+      "date": "2026-11-25",
+      "dateCandidates": [
+        "2026-11-25"
+      ],
+      "dateLabel": "Miércoles 25 de noviembre",
+      "time": "21:00",
+      "scheduleStatus": "confirmed",
+      "channels": [],
+      "channelStatus": "pending",
+      "verificationStatus": "verified"
+    },
+    "after": {
+      "home": "Atlético de Madrid",
+      "away": "Viking FK",
+      "competition": "Champions League",
+      "season": 2026,
+      "round": "5",
+      "date": "2026-11-25",
+      "dateCandidates": [
+        "2026-11-25"
+      ],
+      "dateLabel": "Miércoles 25 de noviembre",
+      "time": "21:00",
+      "scheduleStatus": "confirmed",
+      "channels": [
+        "M_CHAMPIONS"
+      ],
+      "channelStatus": "listed",
+      "verificationStatus": "verified"
+    },
+    "evidence": {
+      "schedule": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "Champions League · Jornada 5 · Atlético de Madrid – Viking FK · Miércoles 25 de noviembre · 21:00",
+        "checkedAt": "2026-11-19T17:32:06+01:00"
+      },
+      "channels": {
+        "M_CHAMPIONS": [
+          {
+            "url": "https://www.futbolenlatv.es/equipo/at-madrid",
+            "text": "2026-11-25 21:00 · Atlético de Madrid – Viking FK · M+ Liga de Campeones 2 (M61 O117), M+ Liga de Campeones 4 (M180 O119)",
+            "checkedAt": "2026-11-19T17:32:06+01:00"
+          }
+        ]
+      }
+    }
   }
 ]
