@@ -2971,5 +2971,125 @@
         ]
       }
     }
+  },
+  {
+    "at": "2026-11-21T10:23:01+01:00",
+    "matchId": "2026-12-09-psv",
+    "kind": "updated",
+    "before": {
+      "home": "PSV",
+      "away": "Atlético de Madrid",
+      "competition": "Champions League",
+      "season": 2026,
+      "round": "6",
+      "date": "2026-12-09",
+      "dateCandidates": [
+        "2026-12-09"
+      ],
+      "dateLabel": "Miércoles 9 de diciembre",
+      "time": "21:00",
+      "scheduleStatus": "confirmed",
+      "channels": [
+        "M_CHAMPIONS"
+      ],
+      "channelStatus": "pending",
+      "verificationStatus": "verified"
+    },
+    "after": {
+      "home": "PSV",
+      "away": "Atlético de Madrid",
+      "competition": "Champions League",
+      "season": 2026,
+      "round": "6",
+      "date": "2026-12-09",
+      "dateCandidates": [
+        "2026-12-09"
+      ],
+      "dateLabel": "Miércoles 9 de diciembre",
+      "time": "21:00",
+      "scheduleStatus": "confirmed",
+      "channels": [
+        "M_CHAMPIONS"
+      ],
+      "channelStatus": "listed",
+      "verificationStatus": "verified"
+    },
+    "evidence": {
+      "schedule": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "Champions League · Jornada 6 · PSV – Atlético de Madrid · Miércoles 9 de diciembre · 21:00",
+        "checkedAt": "2026-11-20T17:06:11+01:00"
+      },
+      "channels": {
+        "M_CHAMPIONS": [
+          {
+            "url": "https://www.partidostv.com/partido/psv-eindhoven-atletico-de-madrid-9105",
+            "text": "PSV Eindhoven – Atlético de Madrid · 09/12/2026 21:00 · M+ Liga de Campeones",
+            "checkedAt": "2026-11-21T10:23:01+01:00"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "at": "2026-11-21T10:23:01+01:00",
+    "matchId": "2026-11-29-elche",
+    "kind": "corrected",
+    "before": {
+      "home": "Elche",
+      "away": "Atlético de Madrid",
+      "competition": "LaLiga",
+      "season": 2026,
+      "round": "14",
+      "date": "2026-11-28",
+      "dateCandidates": [
+        "2026-11-28"
+      ],
+      "dateLabel": "Sábado 28 de noviembre",
+      "time": "18:30",
+      "scheduleStatus": "confirmed",
+      "channels": [
+        "M_LALIGA",
+        "M_PLUS"
+      ],
+      "channelStatus": "listed",
+      "verificationStatus": "verified"
+    },
+    "after": {
+      "home": "Elche",
+      "away": "Atlético de Madrid",
+      "competition": "LaLiga",
+      "season": 2026,
+      "round": "14",
+      "date": "2026-11-28",
+      "dateCandidates": [
+        "2026-11-28"
+      ],
+      "dateLabel": "Sábado 28 de noviembre",
+      "time": "18:30",
+      "scheduleStatus": "confirmed",
+      "channels": [
+        "M_LALIGA",
+        "M_PLUS"
+      ],
+      "channelStatus": "listed",
+      "verificationStatus": "verified"
+    },
+    "evidence": {
+      "schedule": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "LaLiga · Jornada 14 · Elche – Atlético de Madrid · Sábado 28 de noviembre · 18:30",
+        "checkedAt": "2026-11-20T17:06:11+01:00"
+      },
+      "channels": {
+        "M_PLUS": [
+          {
+            "url": "https://www.laliga.com/clubes/atletico-de-madrid/proximos-partidos",
+            "text": "Elche CF – Atlético de Madrid · 28/11/2026 18:30 · Movistar LALIGA, Movistar Plus+, Orange Fútbol 1",
+            "checkedAt": "2026-11-21T10:23:01+01:00"
+          }
+        ]
+      }
+    }
   }
 ]
