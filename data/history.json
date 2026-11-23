@@ -3200,5 +3200,112 @@
       },
       "channels": {}
     }
+  },
+  {
+    "at": "2026-11-23T20:12:51+01:00",
+    "matchId": "2026-11-22-getafe",
+    "kind": "updated",
+    "before": {
+      "home": "Getafe",
+      "away": "Atlético de Madrid",
+      "competition": "LaLiga",
+      "season": 2026,
+      "round": "13",
+      "date": "2026-11-22",
+      "dateCandidates": [
+        "2026-11-22"
+      ],
+      "dateLabel": "Domingo 22 de noviembre",
+      "time": "21:00",
+      "scheduleStatus": "confirmed",
+      "channels": [
+        "M_LALIGA"
+      ],
+      "channelStatus": "listed",
+      "verificationStatus": "verified"
+    },
+    "after": {
+      "home": "Getafe",
+      "away": "Atlético de Madrid",
+      "competition": "LaLiga",
+      "season": 2026,
+      "round": "13",
+      "date": "2026-11-22",
+      "dateCandidates": [
+        "2026-11-22"
+      ],
+      "dateLabel": "Domingo 22 de noviembre",
+      "time": "21:00",
+      "scheduleStatus": "confirmed",
+      "channels": [],
+      "channelStatus": "pending",
+      "verificationStatus": "verified"
+    },
+    "evidence": {
+      "schedule": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "LaLiga · Jornada 13 · Getafe – Atlético de Madrid · Domingo 22 de noviembre · 21:00",
+        "checkedAt": "2026-11-23T20:12:51+01:00"
+      },
+      "channels": {}
+    }
+  },
+  {
+    "at": "2026-11-23T20:12:51+01:00",
+    "matchId": "bcc843875d71786a39e3",
+    "kind": "updated",
+    "before": {
+      "home": "Atlético de Madrid",
+      "away": "Valencia",
+      "competition": "LaLiga",
+      "season": 2026,
+      "round": "16",
+      "date": null,
+      "dateCandidates": [
+        "2026-12-12",
+        "2026-12-13"
+      ],
+      "dateLabel": "Sábado 12 o domingo 13 de diciembre",
+      "time": null,
+      "scheduleStatus": "pending",
+      "channels": [],
+      "channelStatus": "pending",
+      "verificationStatus": "verified"
+    },
+    "after": {
+      "home": "Atlético de Madrid",
+      "away": "Valencia",
+      "competition": "LaLiga",
+      "season": 2026,
+      "round": "16",
+      "date": "2026-12-13",
+      "dateCandidates": [
+        "2026-12-13"
+      ],
+      "dateLabel": "Domingo 13 de diciembre",
+      "time": "14:00",
+      "scheduleStatus": "confirmed",
+      "channels": [
+        "DAZN"
+      ],
+      "channelStatus": "listed",
+      "verificationStatus": "verified"
+    },
+    "evidence": {
+      "schedule": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "LaLiga · Jornada 16 · Atlético de Madrid – Valencia · Domingo 13 de diciembre · 14:00",
+        "checkedAt": "2026-11-23T20:12:51+01:00"
+      },
+      "channels": {
+        "DAZN": [
+          {
+            "url": "https://www.futbolenlatv.es/equipo/at-madrid",
+            "text": "2026-12-13 14:00 · Atlético de Madrid – Valencia · DAZN LaLiga (M55 O113), DAZN (Ver en directo), LaLiga TV Bar",
+            "checkedAt": "2026-11-23T20:12:51+01:00"
+          }
+        ]
+      }
+    }
   }
 ]
