@@ -3307,5 +3307,113 @@
         ]
       }
     }
+  },
+  {
+    "at": "2026-11-26T18:41:33+01:00",
+    "matchId": "2026-11-25-viking",
+    "kind": "updated",
+    "before": {
+      "home": "Atlético de Madrid",
+      "away": "Viking FK",
+      "competition": "Champions League",
+      "season": 2026,
+      "round": "5",
+      "date": "2026-11-25",
+      "dateCandidates": [
+        "2026-11-25"
+      ],
+      "dateLabel": "Miércoles 25 de noviembre",
+      "time": "21:00",
+      "scheduleStatus": "confirmed",
+      "channels": [
+        "M_CHAMPIONS"
+      ],
+      "channelStatus": "listed",
+      "verificationStatus": "verified"
+    },
+    "after": {
+      "home": "Atlético de Madrid",
+      "away": "Viking FK",
+      "competition": "Champions League",
+      "season": 2026,
+      "round": "5",
+      "date": "2026-11-25",
+      "dateCandidates": [
+        "2026-11-25"
+      ],
+      "dateLabel": "Miércoles 25 de noviembre",
+      "time": "21:00",
+      "scheduleStatus": "confirmed",
+      "channels": [],
+      "channelStatus": "pending",
+      "verificationStatus": "verified"
+    },
+    "evidence": {
+      "schedule": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "Champions League · Jornada 5 · Atlético de Madrid – Viking FK · Miércoles 25 de noviembre · 21:00",
+        "checkedAt": "2026-11-26T18:41:33+01:00"
+      },
+      "channels": {}
+    }
+  },
+  {
+    "at": "2026-11-26T18:41:33+01:00",
+    "matchId": "8086865d115ff8112ddd",
+    "kind": "updated",
+    "before": {
+      "home": "Celta",
+      "away": "Atlético de Madrid",
+      "competition": "LaLiga",
+      "season": 2026,
+      "round": "17",
+      "date": null,
+      "dateCandidates": [
+        "2026-12-19",
+        "2026-12-20"
+      ],
+      "dateLabel": "Sábado 19 o domingo 20 de diciembre",
+      "time": null,
+      "scheduleStatus": "pending",
+      "channels": [],
+      "channelStatus": "pending",
+      "verificationStatus": "verified"
+    },
+    "after": {
+      "home": "Celta",
+      "away": "Atlético de Madrid",
+      "competition": "LaLiga",
+      "season": 2026,
+      "round": "17",
+      "date": null,
+      "dateCandidates": [
+        "2026-12-19",
+        "2026-12-20"
+      ],
+      "dateLabel": "Sábado 19 o domingo 20 de diciembre",
+      "time": null,
+      "scheduleStatus": "pending",
+      "channels": [
+        "M_LALIGA"
+      ],
+      "channelStatus": "listed",
+      "verificationStatus": "verified"
+    },
+    "evidence": {
+      "schedule": {
+        "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo/",
+        "text": "LaLiga · Jornada 17 · Celta – Atlético de Madrid · Sábado 19 o domingo 20 de diciembre · Sin confirmar",
+        "checkedAt": "2026-11-26T18:41:33+01:00"
+      },
+      "channels": {
+        "M_LALIGA": [
+          {
+            "url": "https://www.futbolenlatv.es/equipo/at-madrid",
+            "text": "2026-12-20 17:00 · Celta – Atlético de Madrid · M+ LALIGA (M54 O110), Movistar Plus+ (M8): VER PARTIDO, Orange Fútbol 1 (107), M+ LALIGA HDR (M440 O111), LaLiga TV Bar",
+            "checkedAt": "2026-11-26T18:41:33+01:00"
+          }
+        ]
+      }
+    }
   }
 ]
